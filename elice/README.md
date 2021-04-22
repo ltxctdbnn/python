@@ -1,4 +1,4 @@
-<img src="https://kdt-gitlab.elice.io/uploads/-/system/appearance/header_logo/1/elice_x_KDT.png" width="100px" />
+<a href="https://elicetrack.oopy.io/"><img src="https://kdt-gitlab.elice.io/uploads/-/system/appearance/header_logo/1/elice_x_KDT.png" width="100px" /></a>
 
 `/* elice */` AI Track 1기 Study
 
