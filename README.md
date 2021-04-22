@@ -2,5 +2,6 @@
 
 ```
 study
-|── elice // elica ai track study
+|── elice                               // elica ai track study
+|   |── deep learning                   // Artificail Neural Netwrok Deep Learning
 ```
