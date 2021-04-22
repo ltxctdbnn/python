@@ -1,3 +1,7 @@
+# from elice ai track by elice coding
+# Gradient descent 알고리즘은 손실 함수(loss function)의 미분값인 gradient를 이용해 모델에게 맞는 최적의 가중치(weight), 즉 손실 함수의 값을 최소화하는 가중치를 구할 수 있는 알고리즘입니다.
+# 이번 실습에서는 Gradient descent 알고리즘을 직접 구현한 후, 이를 이용해 데이터를 가장 잘 설명하는 선형 회귀 직선의 기울기와 y절편, 즉 선형 회귀 모델에게 맞는 최적의 가중치를 찾아보겠습니다.
+
 import numpy as np
 
 def linear_model(w0, w1, X):
