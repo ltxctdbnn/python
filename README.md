@@ -2,5 +2,5 @@
 
 ```
 study
-|_elice // elica ai track study
+|── elice // elica ai track study
 ```
